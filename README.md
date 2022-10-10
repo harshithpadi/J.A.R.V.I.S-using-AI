@@ -1,17 +1,17 @@
 # J.A.R.V.I.S-using-AI
 This project is based on artificial intelligence where I have desined an AI assistant .  A virtual assistant is an application program that understands natural language voice commands and completes tasks for a user.
 
-AI ASSISTAN - 
+##AI ASSISTAN - 
 A virtual assistant, also called AI assistant or digital assistant, is an application program that understands natural language voice commands and completes tasks for the user.
 
 A virtual assistant uses advanced Artificial Intelligence (AI), RPA, natural language processing, and machine learning to extract information and complex data from conversations to understand them and process them accordingly.
 
 
-SPEECH RECOGNITION-
+##SPEECH RECOGNITION-
 Speech recognition, or speech-to-text, is the ability of a machine or program to identify words spoken aloud and convert them into readable text. Rudimentary speech recognition software has a limited vocabulary and may only identify words and phrases when spoken clearly.
 
 
-ALGORITHM - 
+##ALGORITHM - 
 
 Step 1 – Start .
 
