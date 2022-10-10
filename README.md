@@ -29,5 +29,9 @@ Step 7 - Countinuing the programam until “quit” command is given as input .
 
 Step 8 – End.
 
+INPUTS-
+Inputs are the “commands” that the user will give through mike. The system will converts the voice to the command that will be understand by the computer.
+
+
 So, by giving commands we can control not only online websites but also OS features also. It provides addition benefit to have  complete control of your pc by giving proper commands to it.
 
